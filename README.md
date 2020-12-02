@@ -1,1 +1,1 @@
-# ISBI-Paper-Codes
+# ICIAR_Transfer_Learning_Global_Average_Pooling
